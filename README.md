@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio 👋  
 
-I'm Jesús Villanúa, a cybersecurity learner focused on **Blue Team and SOC operations**.  
+I'm Jesús Villanúa Vega, a cybersecurity learner focused on **Blue Team and SOC operations**.  
 After completing the **Google Cybersecurity Professional Certificate**, I started building hands-on projects to strengthen my defensive skills and prepare for real-world roles.  
 
 This repository collects my personal labs and exercises in areas like:  
